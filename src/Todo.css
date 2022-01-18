@@ -1,0 +1,27 @@
+.todo-div{
+    display: flex;
+    padding: 1% 5%;
+    margin: 0 5%;
+    justify-content: space-between;
+}
+
+#edit-delete-btn{
+    width: 15%;
+    padding-right: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+i{
+    color: rgb(59, 172, 238);
+}
+
+#list-item{
+    font-size: large;
+}
+
+hr{
+    margin: 1% 8%;
+    background-color: rgb(47, 174, 206);
+    height: 1px;
+}

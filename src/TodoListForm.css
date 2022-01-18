@@ -1,0 +1,15 @@
+input{
+    width: 40%;
+    height: 1.5rem;
+    font-size: 1rem;
+    background-color: rgb(214, 227, 245);
+    margin: 4% 3%;
+    border-radius: 0.5rem;
+}
+
+button{
+    width: auto;
+    height: 1.8rem;
+    color: rgb(59, 172, 238);
+    border-radius: 0.5rem;
+}
